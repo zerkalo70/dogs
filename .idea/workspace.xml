@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f69c7f1e-6790-4b76-9b6e-9e55f8a7b8b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/item.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +77,16 @@
       <workItem from="1586067033312" duration="1236000" />
       <workItem from="1586083420586" duration="57000" />
       <workItem from="1586083542717" duration="23000" />
-      <workItem from="1586087221756" duration="667000" />
+      <workItem from="1586087221756" duration="944000" />
     </task>
+    <task id="LOCAL-00001" summary="two commit">
+      <created>1586087963471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586087963471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,15 +94,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="two commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="two commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1586087912226">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1586087962252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586087912226" />
-    <state x="263" y="100" key="IDE.errors.dialog" timestamp="1586068109576">
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586087962252" />
+    <state x="263" y="100" key="IDE.errors.dialog" timestamp="1586087988393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="263" y="100" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1586068109576" />
+    <state x="263" y="100" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1586087988393" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1586087972730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586087972730" />
   </component>
 </project>
